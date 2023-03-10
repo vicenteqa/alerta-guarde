@@ -1,0 +1,20 @@
+{
+  "name": "alerta-guarde",
+  "version": "1.0.0",
+  "description": "alerts for kindergarden in vilanova",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-pers:vicenteqa/alerta-guarde.git"
+  },
+  "author": "vicenteqa",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
